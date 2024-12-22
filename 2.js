@@ -80,6 +80,7 @@ function newEntry() {
       //runs this function when enter is pressed
       newEntry();
     }
+    
     if (key == 38) {
       console.log('hi')
         //document.getElementById("chatbox").value = lastUserMessage;
